@@ -1,0 +1,8 @@
+Metric,Custom CNN,EfficientNetB0
+Accuracy (%),54.96,84.73
+Precision - Macro (%),59.87,85.07
+Recall - Macro (%),56.35,86.32
+F1-Score - Macro (%),53.27,85.34
+Precision - Weighted (%),61.82,84.86
+Recall - Weighted (%),54.96,84.73
+F1-Score - Weighted (%),52.44,84.41
